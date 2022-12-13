@@ -1,15 +1,12 @@
-- 👋 Hi, I’m @ephy-bayru
-- 👀 I’m interested in Angular, Vuejs, .Net, Nodejs, Ethereum, Web3
-- 🌱 I’m currently learning Web3
-- 📫 How to reach me ephybayru@gmail.com
-
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name:  Ephrem Bayru
+email: ephybayru@gmail.com
+phone_no: +251920208549
+linkedin: https://www.linkedin.com/in/ephrem-bayru/
 located_in: Addisabeba, Ethiopia
 current_job: Full Stack Developer
 education:
@@ -32,6 +29,7 @@ fields_of_interests:
     "Vuejs",
     "Nodejs",
     ".Net",
+    "web3"
   ]
 technical_background:
   [
