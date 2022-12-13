@@ -23,7 +23,7 @@ fields_of_interests:
     "UI/UX",
     "DevOps",
   ]
-  tech_stack:
+tech_stack:
   [
     "Angular",
     "Vuejs",
