@@ -48,4 +48,4 @@ hobbies: ["Reading", "Football/not soccer", "documentary"]
   
 ---  
 
-
+![Snake animation](https://github.com/ephy-bayru/ephy-bayru/blob/output/github-contribution-grid-snake.svg)
