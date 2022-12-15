@@ -1,6 +1,6 @@
 
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Ephrem and His Interests</h2>
+<h2> 🇪🇹 &nbsp;A Little Bit About Ephrem and His Interests</h2>
 
 ```yaml
 name:  Ephrem Bayru
