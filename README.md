@@ -14,7 +14,7 @@ education:
     "Master's in Computer Science / Software Engineering Concentration",
     "Bachelor's in Electrical and Computer Engineering",
   ]
-company: GIG
+company: Gaming Innovation Group
 
 fields_of_interests:
   [
