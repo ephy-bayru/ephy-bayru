@@ -41,7 +41,7 @@ technical_background:
   
 currently_learning: ["Ethereum, Solidity, Web3, Webgl, Three.js"]
 2023 Goals: ["comming soon"]
-hobbies: ["Reading", "Football/not soccer", "documentary"]
+hobbies: ["Reading", "Football", "documentary"]
 ```
   
 ---  
