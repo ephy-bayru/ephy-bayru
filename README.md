@@ -33,7 +33,7 @@ tech_stack:
   ]
 technical_background:
   [
-    "Senior Frontend Developer @ Gamming Innovation Group",
+    "Senior Software Engineer @ Gamming Innovation Group",
     "Senior Fullstack Developer @ Excellerent Solutions",
     "Senior Software Developer @ Atlas Computer Technologies",
     "Fullstack Developer",
