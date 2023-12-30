@@ -1,5 +1,3 @@
-
-
 <h2> 🇪🇹 &nbsp;A Little Bit About Ephrem and His Interests</h2>
 
 ```yaml
@@ -47,5 +45,3 @@ hobbies: ["Reading", "Football", "documentary"]
 ---  
 
 ![Snake animation](https://github.com/ephy-bayru/snake-game/blob/output/dist/github-contribution-grid-snake.svg)
-
-
