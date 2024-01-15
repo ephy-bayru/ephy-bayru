@@ -37,7 +37,7 @@ technical_background:
     "Fullstack Developer",
   ]
   
-currently_learning: ["Ethereum, Solidity, Web3, Webgl, Three.js"]
+currently_learning: ["Ethereum, Solidity, Web3, Webgl, Three.js, Headless Architecture, Wasm, Motion Design and Microinteractions"]
 2024 Goals: ["comming soon"]
 hobbies: ["Reading", "Football", "documentary"]
 ```
