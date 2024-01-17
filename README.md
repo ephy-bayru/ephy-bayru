@@ -6,7 +6,7 @@ email: ephybayru@gmail.com
 phone_no: +251920208549
 linkedin: https://www.linkedin.com/in/ephrem-bayru/
 located_in: Addisabeba, Ethiopia
-current_job: Full Stack Developer
+current_job: Senior Software Engineer
 education:
   [
     "Master's in Computer Science / Software Engineering Concentration",
@@ -31,6 +31,8 @@ tech_stack:
   ]
 technical_background:
   [
+
+    "Principal Software Engineer @ Take SaaS"
     "Senior Software Engineer @ Gamming Innovation Group",
     "Senior Fullstack Developer @ Excellerent Solutions",
     "Senior Software Developer @ Atlas Computer Technologies",
