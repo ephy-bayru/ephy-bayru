@@ -5,7 +5,7 @@ name:  Ephrem Bayru
 email: ephybayru@gmail.com
 phone_no: +251920208549
 linkedin: https://www.linkedin.com/in/ephrem-bayru/
-located_in: Addisabeba, Ethiopia
+located_in: Addis Abeba, Ethiopia
 current_job: Senior Software Engineer
 education:
   [
