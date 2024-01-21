@@ -9,7 +9,7 @@ located_in: Addis Abeba, Ethiopia
 current_job: Senior Software Engineer
 education:
   [
-    "Master's in Computer Science / Software Engineering Concentration",
+    "Master's in Computer Science / Software Engineering",
     "Bachelor's in Electrical and Computer Engineering",
   ]
 company: Gaming Innovation Group
