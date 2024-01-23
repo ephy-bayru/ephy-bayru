@@ -10,7 +10,7 @@ current_job: Senior Software Engineer
 education:
   [
     "Master's in Computer Science / Software Engineering",
-    "Bachelor's in Electrical and Computer Engineering",
+    "Bachelor's in Electrical and Computer Engineering"
   ]
 company: Gaming Innovation Group
 
