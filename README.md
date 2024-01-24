@@ -32,7 +32,7 @@ tech_stack:
 technical_background:
   [
 
-    "Principal Software Engineer @ Take SaaS"
+    "Principal Software Engineer @ Take SaaS", 
     "Senior Software Engineer @ Gamming Innovation Group",
     "Senior Fullstack Developer @ Excellerent Solutions",
     "Senior Software Developer @ Atlas Computer Technologies",
