@@ -40,7 +40,7 @@ technical_background:
   ]
   
 currently_learning: ["Headless Architecture, Wasm, Motion Design and Microinteractions"]
-2024 Goals: ["comming soon"]
+2024 Goals: []
 hobbies: ["Reading", "Football", "documentary"]
 ```
   
