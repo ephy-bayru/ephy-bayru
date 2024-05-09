@@ -40,7 +40,7 @@ technical_background:
   ]
   
 currently_learning: ["Headless Architecture, Wasm, Motion Design and Microinteractions"]
-2024 Goals: []
+2024 Goals: [Mastering Blochchain devlopment]
 hobbies: ["Reading", "Football", "documentary"]
 ```
   
