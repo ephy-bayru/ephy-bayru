@@ -62,3 +62,6 @@ Passionate about leveraging cutting-edge technology to solve complex problems an
 
 ## 📚 Hobbies
 - Reading, Football, Watching Documentaries
+
+  ![GitHub Snake Animation](https://github.com/ephy-bayru/ephy-bayru/blob/output/snake.svg)
+
