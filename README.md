@@ -17,6 +17,7 @@ Passionate about leveraging cutting-edge technology to solve complex problems an
 ## 🌍 Fields of Interests
 - Web Development
 - Web3
+- AI
 - UI/UX
 - DevOps
 
