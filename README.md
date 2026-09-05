@@ -1,76 +1,103 @@
-# 👋 A Little Bit About Ephrem and His Interests
+<div align="center">
 
-## 💡 About Me
-**Name**: Ephrem Bayru  
-**Email**: ephbayru@gmail.com  
-**Phone**: +251920208549  
-**LinkedIn**: [Ephrem Bayru](https://www.linkedin.com/in/ephrem-bayru/)  
-**Location**: Addis Ababa, Ethiopia  
-**Current Role**: Senior Software Engineer @ Gaming Innovation Group  
+# Ephrem Bayru
 
-Passionate about leveraging cutting-edge technology to solve complex problems and drive innovation. I'm always seeking opportunities to grow and make impactful contributions.
+### Software Architecture · Systems Design · Technical Leadership
 
-## 🎓 Education
-- Master's in Computer Science / Software Engineering
-- Bachelor's in Electrical and Computer Engineering
+Turning complex requirements into systems that teams can understand, operate, and evolve.
 
-## 🌍 Fields of Interests
-- Web Development
-- Web3
-- AI
-- UI/UX
-- DevOps
+[LinkedIn](https://www.linkedin.com/in/ephrem-bayru/) &nbsp;·&nbsp; [Email](mailto:ephbayru@gmail.com) &nbsp;·&nbsp; [Explore My Work](https://github.com/ephy-bayru?tab=repositories)
 
-## 🛠 Tech Stack
+<sub>Senior Software Engineer at Gaming Innovation Group · Addis Ababa, Ethiopia</sub>
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3-dot-js&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI/UX-FFC107?style=flat-square&logo=adobe&logoColor=black)
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+---
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+## Perspective
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+Good architecture makes the important decisions clear: where responsibilities belong, how information moves, what happens when something fails, and how the system can change.
 
-## 🏆 Experience
-- Principal Software Engineer @ Take SaaS
-- Senior Software Engineer @ Gaming Innovation Group
-- Senior Full Stack Developer @ Excellent Solutions
+I connect product goals with engineering decisions—from system boundaries and integration patterns to performance, reliability, and delivery. My focus is software that solves today’s problem while remaining understandable and adaptable tomorrow.
 
-## 🎯 Current Learning
-- **2024 Goals**: Master Blockchain Development
-- Headless Architecture, Wasm, Motion Design, Microinteractions
+## Areas of Focus
 
-## 🚀 Featured Projects
-- [Cert API](https://github.com/ephy-bayru) - Document authentication system built with NestJS and Ethereum.
-- [Fleet Management System](https://github.com/ephy-bayru) - White-label GPS tracking system with Angular, NestJS, and Go.
-- [Sportsbook App](https://github.com/ephy-bayru) - A real-time sportsbook application developed while at Gaming Innovation Group, featuring live odds, match tracking, and user-friendly betting interfaces.
+| Area | What matters |
+| :--- | :--- |
+| **System Architecture** | Clear boundaries, cohesive responsibilities, and explicit contracts. |
+| **Distributed Systems** | Reliable communication, consistent data, and deliberate failure handling. |
+| **Performance & Reliability** | Measurable improvements, operational visibility, and predictable behavior under load. |
+| **Engineering Strategy** | Technical decisions grounded in product needs, constraints, and long-term cost. |
+| **Technical Leadership** | Shared direction, thoughtful reviews, mentorship, and clear ownership. |
 
-## 🌟 Achievements
-- **Built scalable systems** for over 1,000,000 users with optimized performance and high availability.
-- **Led the development** of a real-time Sportsbook App at Gaming Innovation Group, significantly enhancing user engagement with live odds and match tracking features.
-- **Mentored junior developers** and conducted code reviews to maintain high coding standards across multiple teams.
-- **Integrated CI/CD pipelines** for seamless deployment and testing across multiple environments, reducing deployment times by 30%.
-- **Optimized performance** of web applications by 25% through code refactoring, caching mechanisms, and database optimizations.
-- **Designed and implemented** microservices architecture for a fintech system, facilitating asynchronous communication and improving system resilience.
-- **Developed a Blockchain-based document authentication system**, providing secure and tamper-proof verification for institutions.
+## Selected Impact
 
-## 📚 Hobbies
-- Reading, Football, Watching Documentaries
+- Built systems serving **over 1 million users**, with optimized performance and high availability.
+- Reduced deployment times by **30%** through improvements to delivery and testing pipelines.
+- Improved application performance by **25%** through code, caching, and database optimizations.
+- Designed a fintech microservices architecture with asynchronous communication to improve resilience.
+- Led real-time product development and mentored engineers across teams.
 
-  ![GitHub Snake Animation](https://github.com/ephy-bayru/ephy-bayru/blob/output/snake.svg)
+## How I Approach Engineering
 
+**Start with the problem.**  
+Understand the users, constraints, and desired outcomes before choosing an architecture.
+
+**Make trade-offs explicit.**  
+Evaluate complexity, reliability, cost, and delivery speed. Document why a decision fits its context.
+
+**Design for change.**  
+Keep responsibilities clear and dependencies intentional. Introduce abstractions when they solve a real problem.
+
+**Treat operations as part of the design.**  
+Consider deployment, observability, recovery, and maintenance alongside functionality.
+
+**Build shared understanding.**  
+Architecture should help people make better decisions and work confidently within the system.
+
+## Selected Work
+
+| Domain | Work |
+| :--- | :--- |
+| **Real-Time Platforms** | Sportsbook experiences with live odds and match tracking. |
+| **Operational Systems** | White-label fleet management and GPS tracking. |
+| **Document Verification** | Secure, tamper-proof document authentication for institutions. |
+
+<details>
+<summary><strong>Professional Background</strong></summary>
+
+<br>
+
+- **Principal Software Engineer** — Take SaaS
+- **Senior Software Engineer** — Gaming Innovation Group
+- **Senior Full Stack Developer** — Excellent Solutions
+
+**Education**
+
+- Master’s in Computer Science / Software Engineering
+- Bachelor’s in Electrical and Computer Engineering
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Beyond Engineering</strong></summary>
+
+<br>
+
+Interested in AI, decentralized systems, interaction design, and how technology shapes everyday experiences.
+
+Outside work: reading, football, and documentaries.
+
+</details>
+
+---
+
+<div align="center">
+
+**Let’s build something worth maintaining.**
+
+[Start a conversation](mailto:ephbayru@gmail.com)
+
+</div>
