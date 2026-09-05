@@ -3,7 +3,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" alt="Ephrem Bayru — Software Architect / Tech Lead. Blockchain, AI systems, and platforms. Linked ledger records and a neural network on a blue-violet background." width="1440">
+  <img src="./assets/hero-light.svg" alt="Ephrem Bayru — Software Architect / Head of Engineering. Blockchain, AI systems, and platforms. Linked ledger records and a neural network on a blue-violet background." width="1440">
 </picture>
 
 <p align="center">
@@ -16,21 +16,21 @@
 
 ## Architecture & engineering
 
-I'm **Ephrem Bayru**, a software architect, tech lead, and hands-on engineer with **10+ years of experience** across financial products, sportsbook platforms, and business systems.
+I'm **Ephrem Bayru**, a software architect, head of engineering, and hands-on engineer with **10+ years of experience** across casino platforms, financial products, sportsbook platforms, and business systems.
 
 My work covers **blockchain integrations, AI-assisted products, platform architecture, and technical leadership**. I work across interfaces, services, data, and partner integrations, staying involved from system design through implementation and production delivery.
 
-> **Currently** &nbsp; Tech Lead & Software Architect at **Expertly**, working on Betslip, and Principal Software Development Engineer at **Take SaaS**.
+> **Currently** &nbsp; Software Architect & Head of Engineering at **Expertly**, working on a casino platform.
 
 <br>
 
 ## Selected work
 
-<sub>01 / INTELLIGENCE PLATFORMS</sub>
+<sub>01 / CASINO PLATFORMS</sub>
 
-### AI-assisted products & platform architecture
+### Casino platform architecture & engineering leadership
 
-At **Betslip / Expertly**, I lead architecture and technical delivery across user experiences, backend systems, and AI services. The work brings together betslip processing, odds data, embedded partner experiences, and subscription workflows.
+At **Expertly**, I work as **Software Architect & Head of Engineering**, leading architecture and engineering for a casino platform.
 
 <sub>02 / FINANCIAL SYSTEMS</sub>
 
@@ -57,7 +57,9 @@ I guide architecture, contribute to delivery planning, and mentor engineers thro
 
 ### Experience
 
-- **Expertly · Betslip** — Tech Lead & Software Architect · Apr 2025–Present
+- **Expertly** · Apr 2025–Present<br>
+  **Current:** Software Architect & Head of Engineering, casino platform.<br>
+  **Previously:** Tech Lead & Software Architect, Betslip.
 - **Take SaaS** — Principal Software Development Engineer · May 2022–Present
 - **Gaming Innovation Group** — Senior Frontend Engineer · May 2021–2022
 - **Excellerent Solutions** — Tech Lead / Senior Full-Stack Developer · Jul 2020–Nov 2021
