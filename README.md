@@ -2,93 +2,87 @@
 
 # Ephrem Bayru
 
-### Software Architecture · Systems Design · Technical Leadership
+### Software Architect · Tech Lead · Full-Stack Engineer
 
-Turning complex requirements into systems that teams can understand, operate, and evolve.
+From product ambiguity to dependable systems.
 
-[LinkedIn](https://www.linkedin.com/in/ephrem-bayru/) &nbsp;·&nbsp; [Email](mailto:ephbayru@gmail.com) &nbsp;·&nbsp; [Explore My Work](https://github.com/ephy-bayru?tab=repositories)
+[Website](https://www.ephrembayru.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ephrem-bayru/) &nbsp;·&nbsp; [Email](mailto:ephybayru@gmail.com)
 
-<sub>Senior Software Engineer at Gaming Innovation Group · Addis Ababa, Ethiopia</sub>
+<sub>Addis Ababa, Ethiopia · Working across distributed teams</sub>
 
 </div>
 
 ---
 
-## Perspective
+## About
 
-Good architecture makes the important decisions clear: where responsibilities belong, how information moves, what happens when something fails, and how the system can change.
+I’m a software architect and technical leader with **10+ years of experience** turning complex product ideas into working systems.
 
-I connect product goals with engineering decisions—from system boundaries and integration patterns to performance, reliability, and delivery. My focus is software that solves today’s problem while remaining understandable and adaptable tomorrow.
+My work connects architecture, hands-on engineering, and team execution. I shape system boundaries, guide technical decisions, and stay involved through implementation and production delivery.
 
-## Areas of Focus
+I’ve worked across sportsbook platforms, financial products, AI-assisted experiences, and business systems—with a consistent focus on clarity, reliability, and product impact.
 
-| Area | What matters |
+## What I Bring
+
+| Focus | Approach |
 | :--- | :--- |
-| **System Architecture** | Clear boundaries, cohesive responsibilities, and explicit contracts. |
-| **Distributed Systems** | Reliable communication, consistent data, and deliberate failure handling. |
-| **Performance & Reliability** | Measurable improvements, operational visibility, and predictable behavior under load. |
-| **Engineering Strategy** | Technical decisions grounded in product needs, constraints, and long-term cost. |
-| **Technical Leadership** | Shared direction, thoughtful reviews, mentorship, and clear ownership. |
+| **Software Architecture** | Define clear responsibilities, intentional dependencies, and contracts that support change. |
+| **Platform Engineering** | Connect user experiences, services, data, and external integrations into cohesive products. |
+| **Data & Reliability** | Design understandable data flows, improve performance, and make systems observable and maintainable. |
+| **Technical Leadership** | Establish direction, clarify trade-offs, mentor engineers, and build shared ownership. |
+| **Product Delivery** | Translate uncertain requirements into practical decisions and guide the work through production. |
 
-## Selected Impact
+## Selected Experience
 
-- Built systems serving **over 1 million users**, with optimized performance and high availability.
-- Reduced deployment times by **30%** through improvements to delivery and testing pipelines.
-- Improved application performance by **25%** through code, caching, and database optimizations.
-- Designed a fintech microservices architecture with asynchronous communication to improve resilience.
-- Led real-time product development and mentored engineers across teams.
+**Sportsbook intelligence & AI-assisted products**  
+Leading architecture and technical delivery for **Betslip at Expertly**, spanning betslip processing, odds data, AI services, partner integrations, embedded experiences, and subscription workflows.
 
-## How I Approach Engineering
+**Financial platforms & decentralized systems**  
+Building and maintaining cryptocurrency lending and borrowing products at **Take SaaS**, with contributions across service architecture, data modeling, blockchain integrations, and performance.
 
-**Start with the problem.**  
-Understand the users, constraints, and desired outcomes before choosing an architecture.
+**White-label platforms & operator experiences**  
+Contributed to sportsbook platforms and back-office tooling at **Gaming Innovation Group**, supporting products sold to international betting operators.
 
-**Make trade-offs explicit.**  
-Evaluate complexity, reliability, cost, and delivery speed. Document why a decision fits its context.
+## Engineering Principles
 
-**Design for change.**  
-Keep responsibilities clear and dependencies intentional. Introduce abstractions when they solve a real problem.
-
-**Treat operations as part of the design.**  
-Consider deployment, observability, recovery, and maintenance alongside functionality.
-
-**Build shared understanding.**  
-Architecture should help people make better decisions and work confidently within the system.
-
-## Selected Work
-
-| Domain | Work |
-| :--- | :--- |
-| **Real-Time Platforms** | Sportsbook experiences with live odds and match tracking. |
-| **Operational Systems** | White-label fleet management and GPS tracking. |
-| **Document Verification** | Secure, tamper-proof document authentication for institutions. |
+- **Understand the constraints.** Let product needs, operating conditions, and business priorities shape the design.
+- **Make decisions explainable.** Document the reasoning, alternatives, and consequences.
+- **Keep complexity earned.** Introduce boundaries and abstractions where they provide immediate value.
+- **Design beyond the happy path.** Consider failure, visibility, recovery, and maintenance.
+- **Stay close to implementation.** Validate architectural decisions through working software.
 
 <details>
 <summary><strong>Professional Background</strong></summary>
 
 <br>
 
-- **Principal Software Engineer** — Take SaaS
-- **Senior Software Engineer** — Gaming Innovation Group
-- **Senior Full Stack Developer** — Excellent Solutions
-
-**Education**
-
-- Master’s in Computer Science / Software Engineering
-- Bachelor’s in Electrical and Computer Engineering
+| Role | Organization | Period |
+| :--- | :--- | :--- |
+| Tech Lead & Software Architect — Betslip | Expertly | Apr 2025–Present |
+| Principal Software Development Engineer | Take SaaS | May 2022–Present |
+| Senior Frontend Engineer | Gaming Innovation Group | May 2021–2022 |
+| Tech Lead / Senior Full-Stack Developer | Excellerent Solutions | Jul 2020–Nov 2021 |
+| Senior Web Developer | Atlas Computer Technologies | Mar 2019–Jul 2020 |
+| Full-Stack Developer | AppDiv Systems Development | Aug 2017–Mar 2019 |
 
 </details>
 
 <br>
 
 <details>
-<summary><strong>Beyond Engineering</strong></summary>
+<summary><strong>Education & Interests</strong></summary>
 
 <br>
 
-Interested in AI, decentralized systems, interaction design, and how technology shapes everyday experiences.
+**Master’s in Computer Science**  
+American College of Technology
 
-Outside work: reading, football, and documentaries.
+**Bachelor’s in Electrical and Computer Engineering**  
+Hawassa University
+
+Interested in AI, decentralized systems, interaction design, and reliable software delivery.
+
+Outside engineering: reading, football, and documentaries.
 
 </details>
 
@@ -96,8 +90,8 @@ Outside work: reading, football, and documentaries.
 
 <div align="center">
 
-**Let’s build something worth maintaining.**
+**Clear architecture. Thoughtful engineering. Dependable delivery.**
 
-[Start a conversation](mailto:ephbayru@gmail.com)
+[Let’s connect](mailto:ephybayru@gmail.com)
 
 </div>
